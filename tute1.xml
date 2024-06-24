@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TU xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xsi:schemaLoctaion="tute11.xsd"
+>
+<employee>
+<Post>CEO</Post>
+<Salary>100000</Salary>
+<Gender>Female</Gender>
+<Username>AnkitaKatuwal</Username>
+<Password>snkita123</Password>
+</employee>
+</TU>
